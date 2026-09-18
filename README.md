@@ -37,7 +37,7 @@ SQLite + Parquet       ChromaDB              Evaluation          Docker
 ### Quick Start
 
 ```bash
-git clone https://github.com/wsamuelw/melbourne-property-intelligence.git
+git clone https://github.com/47096/melbourne-property-intelligence.git
 cd melbourne-property-intelligence
 pip install -r requirements.txt
 ```
